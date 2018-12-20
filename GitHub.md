@@ -3,11 +3,11 @@
 ```
     git init
 ```
-2. Add file to stage
+2. Add file to stage / Alter some details from the old file
 ```
     git add <filename>
 ```
-3. Commit file to master
+3. Commit file to master / Commit the alters of the old file
 ```
     git commit -m "..."
 ```
