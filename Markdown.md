@@ -82,6 +82,8 @@ code
 ## 七、图片
 ```
 ![图片alt](图片地址)
+Example:
+![这是图片说明](https://github.githubassets.com/images/modules/site/home-illo-team.svg)
 ```
 显示效果：
 ![这是图片说明](https://github.githubassets.com/images/modules/site/home-illo-team.svg)
