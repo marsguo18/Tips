@@ -91,6 +91,8 @@ Example:
 ## 八、超链接
 ```
 [超链接名](超链接地址)
+Example:
+[GitHub](https://github.com/)
 ```
 显示效果：
 [GitHub](https://github.com/)
