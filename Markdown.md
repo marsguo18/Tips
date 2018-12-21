@@ -96,7 +96,7 @@ Example:
 <img align=left src="https://github.githubassets.com/images/modules/site/home-illo-team.svg" width = 10% height = 10%/>
 ```
 显示效果：
-<img align=right src="https://github.githubassets.com/images/modules/site/home-illo-team.svg" width = 10% height = 10%/>
+<img align=left src="https://github.githubassets.com/images/modules/site/home-illo-team.svg" width = 10% height = 10%/>
 
 ## 八、超链接
 ```
