@@ -89,9 +89,9 @@ Example:
 显示效果：
 ![这是图片说明](https://github.githubassets.com/images/modules/site/home-illo-team.svg)
 
-2. 设置图片的大小（以10%为例子），位置（以右为例子）
+2. 设置图片的大小（以10%为例子），位置（以左为例子）
 ```
-<img align=right src="图片地址" width = 10% height = 10%/>
+<img align=left src="图片地址" width = 10% height = 10%/>
 Example:
 <img align=right src="https://github.githubassets.com/images/modules/site/home-illo-team.svg" width = 10% height = 10%/>
 ```
