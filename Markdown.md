@@ -80,6 +80,7 @@ code
 ```
 
 ## 七、图片
+1. 一般导入图片的方式
 ```
 ![图片alt](图片地址)
 Example:
@@ -87,6 +88,15 @@ Example:
 ```
 显示效果：
 ![这是图片说明](https://github.githubassets.com/images/modules/site/home-illo-team.svg)
+
+2. 设置图片的大小（以10%为例子），位置（以右为例子）
+```
+<img align=right src="图片地址" width = 10% height = 10%/>
+Example:
+<img align=right src="https://github.githubassets.com/images/modules/site/home-illo-team.svg" width = 10% height = 10%/>
+```
+显示效果：
+<img align=right src="https://github.githubassets.com/images/modules/site/home-illo-team.svg" width = 10% height = 10%/>
 
 ## 八、超链接
 ```
