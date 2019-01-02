@@ -123,17 +123,17 @@ Example:
 
 ## 十、公式
 ```
-$y = a + b x$
+$ y = a + b x $
 ```
-显示效果：
-$y = a + b x$
+显示效果：<br>
+$ y = a + b x $
 
 ### 下标
 ```
-$Pa(s,s') = Pr(S_{t+1} = s' | st = s, at = a)$
+$ Pa(s,s') = Pr(S_{t+1} = s' | st = s, at = a) $
 ```
-显示效果：
-$Pa(s,s') = Pr(S_{t+1} = s' | st = s, at = a)$
+显示效果：<br>
+$ Pa(s,s') = Pr(S_{t+1} = s' | st = s, at = a) $
 
 ### 数学符号
 ![公式1](Images/formula1.jpg)
