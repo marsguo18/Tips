@@ -142,6 +142,14 @@ $ Pa(s,s') = Pr(S_{t+1} = s' | st = s, at = a) $
 ∈
 $\in$
 
+### 求和
+$\sum$ 
+
+### 大小
+≤: $\leq$
+≥: $\geq$
+≠: $\neq$
+
 ### 数学符号
 ![公式1](Images/formula1.jpg)
 ![公式2](Images/formula2.jpg)
