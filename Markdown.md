@@ -128,12 +128,19 @@ $ y = a + b x $
 显示效果：<br>
 $ y = a + b x $
 
+### 上标
+$ a^2 $
+
 ### 下标
 ```
 $ Pa(s,s') = Pr(S_{t+1} = s' | st = s, at = a) $
 ```
 显示效果：<br>
 $ Pa(s,s') = Pr(S_{t+1} = s' | st = s, at = a) $
+
+### 从属
+∈
+$\in$
 
 ### 数学符号
 ![公式1](Images/formula1.jpg)
